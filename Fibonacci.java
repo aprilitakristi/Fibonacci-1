@@ -24,7 +24,7 @@ public class Fibonacci {
 			System.out.println(d);
 			a--;
 		}
-		
+		System.out.println("hai");
 	}
 
 }
